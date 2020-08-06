@@ -1,6 +1,7 @@
 {
   "name": "@flexboard-dev/typescript-node-starter",
   "version": "1.0.0",
+  "homepage": "https://flexboard-dev.github.io/typescript-node-starter/",
   "main": "dist/index.js",
   "repository": "https://github.com/flexboard-dev/typescript-node-starter.git",
   "author": "Pranav S Kurup <admin@codedeck.dev>",

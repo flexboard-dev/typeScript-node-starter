@@ -1,0 +1,13 @@
+!docs
+src
+tools
+coverage
+test
+.editorconfig
+.eslintrc
+.eslintignore
+.nojekyll
+jest.config.js
+tsconfig.json
+yarn-error.log
+.github
